@@ -122,15 +122,15 @@ const info = {
         {
             school: "KKR and KSR INSTITUTE OF TECHNOLOGY & SCIENCES",
             degree: "B.Tech in Data Science",
-            year: "2021 - Present",
+            // year: "2021 - Present",
             image: "kitslogo.jpg"
         },
-        {
-            school: "sri gowthami junior college ",
-            degree: "INTERMEDIATE",
-            year: "2019 - 2021",
-            image: "sgjclogo.png"
-        },
+        // {
+        //     school: "sri gowthami junior college ",
+        //     degree: "INTERMEDIATE",
+        //     year: "2019 - 2021",
+        //     image: "sgjclogo.png"
+        // },
     ],
 
     contact: {
@@ -138,7 +138,7 @@ const info = {
         description: "Thank you for your interest in connecting with me. I welcome your feedback, questions, and suggestions. If you have a specific inquiry or comment, please feel free to email me directly at bitrasrinivaspavan@gmail.com. I strive to respond to all messages within 24 hours, but please allow a bit more time during busy periods. Alternatively, if you prefer to connect on social media, you can find me using the links provided below.",
     },
 
-    footer: "© 2024 Bitra Pavan Kumar. All Rights Reserved"
+    footer: "© 2025 Bitra Pavan Kumar. All Rights Reserved"
 }
 
 export default info
