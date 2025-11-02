@@ -2,7 +2,7 @@ const info = {
     main: {
         name: "KHUSHI HOSAMANI",
         description: "Hi, I'm Khushi Hosamani, a passionate Front-End and Full-Stack Developer focused on building modern, responsive, and user-friendly web applications. I specialize in creating clean UI designs using React and developing smooth, interactive user experiences. I also have experience working with full-stack tools, giving me the ability to understand complete application workflows and build scalable solutions end-to-end. I enjoy learning new technologies and transforming ideas into functional digital products.",
-        role: "FULL STACK DEVELOPER",
+        role: "FULL STACK DEVELOPEReeeee",
         photo: "../Dp.jpg",
         email: "khushihosamani57@gmail.com",
         tracking_id: "G-BNTTBGHXSC"
